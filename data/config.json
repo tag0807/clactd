@@ -1,0 +1,4 @@
+{
+  "httpport": 10080,
+  "mqtt.tcpport": 10883
+}
